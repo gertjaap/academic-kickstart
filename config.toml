@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -63,7 +63,7 @@ defaultContentLanguageInSubdir = false
   address = ""
   office_hours = ""
   phone = ""
-  skype = "gertjaap_glasbergen"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -249,24 +249,19 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+  name = "Talks"
+  url = "#talksinterviews"
+  weight = 3
 
 [[menu.main]]
-  name = "Posts"
+  name = "Blogs"
   url = "#posts"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
