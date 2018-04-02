@@ -8,7 +8,7 @@ title = "Talks & Interviews"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 45
 
 # Number of talks to list.
 count = 10
