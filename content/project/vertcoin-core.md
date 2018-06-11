@@ -1,6 +1,6 @@
 +++
-title = "Blockchain Indexer"
-date = 2018-04-02T12:07:58+02:00
+title = "Vertcoin Core"
+date = 2018-04-02T12:10:00+02:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "A fast indexer for Bitcoin and compatible blockchains, written in C++. Indexes the blockfiles directly."
+summary = "Core wallet for Vertcoin, powering the blockchain"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/vertcoin-project/blockchain-indexer"
+external_link = "https://github.com/vertcoin-project/vertcoin-core"
 
 # Does the project detail page use math formatting?
 math = false
