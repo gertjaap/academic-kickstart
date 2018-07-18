@@ -1,5 +1,5 @@
 +++
-title = "[Dutch] Is blockchain waardeloos voor overheden?"
+title = "[Dutch] Emerce: Is blockchain waardeloos voor overheden?"
 date = "2018-06-05T00:00:00+02:00"
 draft = false
 
@@ -7,7 +7,7 @@ draft = false
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
-url_medium = "https://medium.com/@gertjaap/is-blockchain-waardeloos-voor-overheden-7a4f86c1203d"
+url_medium = "https://www.emerce.nl/opinie/blockchain-waardeloos-overheden"
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
